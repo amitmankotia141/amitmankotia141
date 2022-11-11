@@ -1,6 +1,6 @@
-![Profile Views](https://komarev.com/ghpvc/?username=goelabhishek694)
+![Profile Views](https://komarev.com/ghpvc/?username=amitmankotia141)
  
-## Hey 👋, I'm Abhishek Goel!
+## Hey 👋, I'm Amit Mankotia!
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/goelabhishek694/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
@@ -21,10 +21,10 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 - 🔭 &nbsp; I’m currently working on **building an ecommerce**
 - 🤝 &nbsp;  I’m looking to collaborate on exciting projects which helps us to make our lives more efficient
-- 📫 &nbsp;How to reach me , you can email me at goelabhishek94@gmail.com
+- 📫 &nbsp;How to reach me , you can email me at amit100.mankotia@gmail.com
 - 💻 &nbsp;I am actively looking for jobs for the role of SDE.
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/goelabhishek694/)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/amit-mankotia-31bb89a7/)
 - 📝 &nbsp; Checkout my [resume](<link>)
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels.
 <br>
@@ -78,7 +78,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <!-- <br> -->
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
-<p align="center">Made with ❤️ by Abhishek Goel</p>
+<p align="center">Made with ❤️ by Amit Mankotia</p>
 <!-- <h1 align='center'>⚡️<i></i>⚡️</h1> -->
 
 <p align="center">
