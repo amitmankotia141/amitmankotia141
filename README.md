@@ -61,7 +61,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <summary><b> 📊 Github Stats</b></summary>
 <div align="center">
  
-[![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=goelabhishek694&count_private=true&show_icons=true&theme=radical)](https://github.com/goelabhishek694)
+[![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=goelabhishek694&count_private=true&show_icons=true&theme=radical)](https://github.com/goelabhishek694)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goelabhishek694&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
