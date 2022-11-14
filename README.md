@@ -61,13 +61,13 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <summary><b> 📊 Github Stats</b></summary>
 <div align="center">
  
-[![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=goelabhishek694&count_private=true&show_icons=true&theme=radical)](https://github.com/goelabhishek694)
+[![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitmankotia141&count_private=true&show_icons=true&theme=radical)](https://github.com/amitmankotia141)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goelabhishek694&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitmankotia141&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![wakatime](https://wakatime.com/badge/user/8a7a1dec-69be-4bb1-bdc3-ec2fa0f74050.svg)](https://wakatime.com/@8a7a1dec-69be-4bb1-bdc3-ec2fa0f74050)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=goelabhishek694&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=amitmankotia141&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=goelabhishek694&theme=dark)
  </div>
