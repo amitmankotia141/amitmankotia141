@@ -69,7 +69,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=amitmankotia141&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=goelabhishek694&theme=dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=amitmankotia141&theme=dark)
  </div>
  </details>
 
